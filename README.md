@@ -1,4 +1,4 @@
 # manishdewangan.github.io
 
-Auther-Manish Dewaangan
+Auther-Manish Dewangan
 This is for making a portfolio wedsite 
